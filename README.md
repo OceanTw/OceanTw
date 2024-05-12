@@ -7,7 +7,7 @@
 
 - 🔥 My website [https://oceantw.me](https://oceantw.me)
 
-- 📫 How to reach me **Discord: oceaning**
+- 📫 **oceaning** on Discord if you want to contact me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
