@@ -5,8 +5,6 @@
 
 - 🔍 I'm looking for **Minecraft related projects to work on**
 
-- 🔥 My website [https://oce.lol](https://oce.lol)
-
 - 📫 **oceaning** on Discord if you want to contact me
 
 <h3 align="left">Languages and Tools:</h3>
