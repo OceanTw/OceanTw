@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ocean</h1>
-<h3 align="center">A Bukkit & Spigot Developer from Taiwan 🇹🇼</h3>
+<h3 align="center">A Bukkit & Spigot Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oceantw&label=Profile%20views&color=0e75b6&style=flat" alt="oceantw" /> </p>
 
